@@ -7,3 +7,8 @@ def main():
 if __name__ == "__main__":
     main()
 
+<<<<<<< HEAD
+=======
+if __name__ == "__main__":
+    main()
+>>>>>>> feature1
