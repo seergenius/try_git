@@ -1,3 +1,6 @@
+def add_two (a,b):
+    return a+b
+
 def add_three(a,b):
     return a+b+c
 
