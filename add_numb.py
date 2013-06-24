@@ -1,7 +1,9 @@
-def aa_two(a,b):
-    return a+b
+def add_three(a,b):
+    return a+b+c
 
 def main():
-    print("2+3=", add_two(2,3)))
+    print("2+3+4=", add_two(2,3,4)))
 
-Random stuff
+if __name__ == "__main__":
+    main()
+
